@@ -53,4 +53,24 @@ customers are ordering, and anything else you can think of.
 * departments
 * products
 
+# Tools Used
+● Pandas: for data analysis
 
+● Numpy: for mathematical equations
+
+● Seaborn: for data visualizations
+
+● Matplotlib: for data visualizations
+
+● SciPy: for mathematical equations
+
+# Folders
+● 01 Project Management: Project Brief 
+
+● 02 Data: Contains two sub-folders named Original and Manipulated Data. These contain the original datasets and the datasets with changes made (datasets not uploaded due to large size)
+
+● 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
+
+● 04 Analysis: Contains the visualizations to provide insights on the analysis
+
+● 05 Sent to Client: The final report presented in Excel
